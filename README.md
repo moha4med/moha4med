@@ -1,16 +1,30 @@
-## Hi there 👋
+# 🎨 Graphic Designer & Web Developer
+Hi there! 👋 I am MOHA4MED, a 19 y.o talented Graphic Designer & Web Developer with a keen eye for detail and a love for creating beautiful and functional websites.
 
-<!--
-**moha4med/moha4med** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's a glimpse of what I do:
 
-Here are some ideas to get you started:
+## Graphic Design:
+- Poster and Football design
+- User interface (UI) design
+## Web Development:
+- Front-end development with HTML, CSS, and JavaScript
+- Back-end development with Php
+- Responsive web design and development
+  
+I'm always excited to learn new things and push my creative boundaries. I believe in the power of design to solve problems and make a positive impact on the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of my skills:
+
+## Technical Skills:
+HTML, CSS, JavaScript, React, PHP, MySQL, Photoshop, Illustrator, Figma
+## Soft Skills:
+Communication, collaboration, creativity, attention to detail
+
+Here are some of my projects:
+[Project 1 Link](https://moha4med.github.io/TastyArt/)
+
+You can also find me on:
+
+LinkedIn: [LinkedIn Profile Link](https://www.linkedin.com/in/mohamed-ait-ali-2433982b3/)
+Behance: [Behance Profile Link](https://www.behance.net/moha4medaa1)
+Thank you for visiting my profile!
