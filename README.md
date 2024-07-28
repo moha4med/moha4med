@@ -21,10 +21,11 @@ HTML, CSS, JavaScript, React, PHP, MySQL, Photoshop, Illustrator, Figma
 Communication, collaboration, creativity, attention to detail
 
 Here are some of my projects:
-[Project 1 Link](https://moha4med.github.io/TastyArt/)
+- [Project 1 Link](https://moha4med.github.io/TastyArt/)
 
 You can also find me on:
 
-LinkedIn: [LinkedIn Profile Link](https://www.linkedin.com/in/mohamed-ait-ali-2433982b3/)
-Behance: [Behance Profile Link](https://www.behance.net/moha4medaa1)
+- LinkedIn: [LinkedIn Profile Link](https://www.linkedin.com/in/mohamed-ait-ali-2433982b3/)
+- Behance: [Behance Profile Link](https://www.behance.net/moha4medaa1)
+- 
 Thank you for visiting my profile!
