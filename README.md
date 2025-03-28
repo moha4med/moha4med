@@ -31,24 +31,6 @@ Communication, collaboration, creativity, attention to detail
 
 ---
 
-## 📊 GitHub Stats:  
-
-![MOHA4MED's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moha4med&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moha4med&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=moha4med&theme=radical)  
-
----
-
-## 📊 Additional GitHub Stats:  
-
-### 🎯 Commits & Repos:
-![MOHA4MED's GitHub Commits](https://github-readme-stats.vercel.app/api?username=moha4med&hide=prs&count_private=true&show_icons=true&hide_title=true&theme=radical)  
-
-### 🏆 GitHub Achievements:
-![GitHub Achievements](https://github-readme-stats.vercel.app/api?username=moha4med&include_all_commits=true&hide=prs&count_private=true&theme=radical)
-
----
-
 ## 📫 Connect with Me:  
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mohamed-ait-ali-2433982b3/)  
 - Behance: [Personal Portfolio](https://www.moha4med.tech)
